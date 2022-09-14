@@ -1,0 +1,53 @@
+.body{
+    margin-top: 3rem;
+    margin-left: 8rem;
+    width: 78%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.img{
+    width: 30rem;
+    margin-top: 5.3rem;
+}
+.h1{
+    margin-top: 2rem;
+    margin-left: 2rem;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.h2{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.tr th{
+    border: 1px solid black;
+    width: 12rem;
+    font-size: 20px;
+    padding: 0.75rem;
+    color: #495057;
+    background-color: #e9ecef;
+    border-color: #dee2e6;
+}
+.tr td{
+    border-top: 1px solid #dee2e6;
+    width: 12rem;
+    font-size: 20px;
+    padding: 0.75rem;
+}
+.input{
+    width: 12rem;
+    padding-left: 1rem;
+    height: 2.3rem;
+    border: 1px solid gray;
+    border-radius: 7px;
+    color: #495057;
+    font-size: large;
+}
+.date{
+    margin-top: 2rem;
+    align-items: center;
+}
+.buttom{
+    margin-left: 31.6rem;
+    margin-top: 1rem;
+    margin-bottom: 5rem
+}

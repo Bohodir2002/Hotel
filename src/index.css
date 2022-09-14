@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden !important;
+}
+@media (max-width: 576px) {
+    ::-webkit-scrollbar {
+      width: 4px;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+      background: linear-gradient(transparent, #0000ff);
+      border-radius: 6px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+      background: linear-gradient(#D7DBDD, #0000ff);
+  }
+  }

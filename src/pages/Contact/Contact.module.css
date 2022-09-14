@@ -1,0 +1,30 @@
+.body{
+    margin-top: 7rem;
+}
+    .buttom{
+        margin-left: 8rem;
+}
+.name{
+    width: 20rem;
+    height: 3.3rem;
+    font-size:large ;
+    border-radius: 8px;
+}
+.subject{
+    width: 20rem;
+    height: 3.3rem;
+    font-size:large ;
+     border-radius: 8px;
+}
+.email{
+    width: 20rem;
+    height: 3.3rem;
+    font-size:large ;
+     border-radius: 8px;
+}
+.phone{
+    width: 20rem;
+    height: 3.3rem;  
+    font-size:large ;
+     border-radius: 8px;
+}
